@@ -1,50 +1,50 @@
-# Welcome to your Ibadah Harian app 👋
+# Selamat datang di aplikasi Ibadah Harian 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Ini adalah proyek [Expo](https://expo.dev) yang dibuat menggunakan [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## Mulai
 
-1. Install dependencies
+1. Instal dependensi
 
    ```bash
    npm install
-   ```
+Jalankan aplikasi
 
-2. Start the app
+bash
+Copy
+Edit
+npx expo start
+Setelah itu, kamu bisa membuka aplikasi di:
 
-   ```bash
-    npx expo start
-   ```
+Development build
 
-In the output, you'll find options to open the app in a
+Emulator Android
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Simulator iOS
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Expo Go, sandbox terbatas untuk mencoba pengembangan aplikasi dengan Expo
 
-## Get a fresh project
+Mulailah dengan mengedit file dalam direktori app. Proyek ini memakai file-based routing.
 
-When you're ready, run:
+Proyek Baru
+Untuk memulai proyek dari awal:
 
-```bash
+bash
+Copy
+Edit
 npm run reset-project
-```
+Perintah ini akan memindahkan kode awal ke direktori app-example dan membuat direktori app kosong untuk mulai membangun aplikasi dari nol.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Pelajari Lebih Lanjut
+Dokumentasi Expo
 
-## Learn more
+Tutorial Expo
 
-To learn more about developing your project with Expo, look at the following resources:
+Komunitas
+Expo di GitHub
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Komunitas Discord
 
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+go
+Copy
+Edit
